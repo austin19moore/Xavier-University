@@ -1,1 +1,1 @@
-UTSA Group project.
+Collaborative group project.
